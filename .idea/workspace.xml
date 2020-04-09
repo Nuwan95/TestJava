@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c348abd-a1bb-46db-bc12-72b24637fb7c" name="Default" comment="Block and control statement">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="9c348abd-a1bb-46db-bc12-72b24637fb7c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -655,7 +654,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586433892700</updated>
       <workItem from="1586433899865" duration="708000" />
-      <workItem from="1586434863165" duration="2956000" />
+      <workItem from="1586434863165" duration="2989000" />
     </task>
     <task id="LOCAL-00001" summary="Example2">
       <created>1586443248046</created>
@@ -671,11 +670,18 @@
       <option name="project" value="LOCAL" />
       <updated>1586447128784</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Block and control statement">
+      <created>1586447229194</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586447229194</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3664000" />
+    <option name="totallyTimeSpent" value="3697000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
