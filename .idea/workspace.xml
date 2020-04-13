@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c348abd-a1bb-46db-bc12-72b24637fb7c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TestJava/Example1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TestJava/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestJava.iml" afterPath="$PROJECT_DIR$/TestJava.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BlockTest.java" afterPath="$PROJECT_DIR$/Src/Chapter1/BlockTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Example1.java" afterPath="$PROJECT_DIR$/Src/Chapter1/Example1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Example2.java" afterPath="$PROJECT_DIR$/Src/Chapter1/Example2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ForTest.java" afterPath="$PROJECT_DIR$/Src/Chapter1/ForTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IfSample.java" afterPath="$PROJECT_DIR$/Src/Chapter1/IfSample.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -690,7 +681,7 @@
       <updated>1586433892700</updated>
       <workItem from="1586433899865" duration="708000" />
       <workItem from="1586434863165" duration="3609000" />
-      <workItem from="1586758723922" duration="469000" />
+      <workItem from="1586758723922" duration="560000" />
     </task>
     <task id="LOCAL-00001" summary="Example2">
       <created>1586443248046</created>
@@ -720,11 +711,18 @@
       <option name="project" value="LOCAL" />
       <updated>1586447268780</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="xml">
+      <created>1586759209473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586759209473</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4786000" />
+    <option name="totallyTimeSpent" value="4877000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
